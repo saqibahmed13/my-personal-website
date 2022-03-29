@@ -2,8 +2,6 @@
 
 URL: https://personoliosprojects.z13.web.core.windows.net/
 
-Code Link: https://github.com/saqibahmed13/my-personal-website.git 
-
 Azure Service: Storage Accounts
 
 Steps which i followed to push the repository to GitHub:
