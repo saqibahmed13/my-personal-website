@@ -5,10 +5,10 @@ Azure Service: Storage Accounts
 
 Steps which i followed to push the repository to GitHub:
 
-Step1:Create an account in GitHub.
-Step2:Create the new Repository in your respective Github account.
-Step3:Open the Code which you want to push the code to Github in any IDE (eg:Visual Studio Code).
-Step4:Open the terminal in IDE and run the Github Commants which has been provided in the repository itself into the Terminal.
+1:Create an account in GitHub.
+2:Create the new Repository in your respective Github account.
+3:Open the Code which you want to push the code to Github in any IDE (eg:Visual Studio Code).
+4:Open the terminal in IDE and run the Github Commants which has been provided in the repository itself into the Terminal.
 
 
 Steps which i followed to deploy in azure service(Storage Account):
