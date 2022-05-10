@@ -4,6 +4,8 @@ URL: https://personoliosprojects.z13.web.core.windows.net/
 
 Azure Service: Storage Accounts
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Steps which i followed to push the repository to GitHub:
 
 Step1: Create an account in GitHub.
@@ -14,6 +16,7 @@ Step3: Open the Code which you want to push the code to Github in any IDE (eg:Vi
 
 Step4: Open the terminal in IDE and run the Github Commants which has been provided in the repository itself into the Terminal.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Steps which i followed to deploy in azure service(Storage Account):
 
